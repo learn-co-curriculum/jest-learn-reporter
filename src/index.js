@@ -21,7 +21,7 @@ class LearnReporter {
       "duration": duration
     }
 
-    const output = JSON.stringify({ stats })
+    const output = JSON.stringify({ stats }, null, 2)
 
     fs.writeFile('.results.json', output, err => {
       if (err) return console.error('\nError saving coverage:', err);
