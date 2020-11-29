@@ -25,7 +25,6 @@ class LearnReporter {
 
     fs.writeFile('.results.json', output, err => {
       if (err) return console.error('\nError saving coverage:', err);
-      console.log('\nCoverage saved to .results.json');
     })
   }
 }
