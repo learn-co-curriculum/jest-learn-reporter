@@ -1,14 +1,11 @@
 {
-  "name": "@ihollander/jest-learn-reporter",
-  "version": "1.0.0",
+  "name": "@learn-co-curriculum/jest-learn-reporter",
+  "version": "0.0.1",
   "description": "A Jest reporter for the learn-test gem",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ihollander/jest-learn-reporter.git"
+    "url": "git+https://github.com/learn-co-curriculum/jest-learn-reporter.git"
   },
   "keywords": [
     "jest",
@@ -17,7 +14,7 @@
   "author": "Ian Hollander",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ihollander/jest-learn-reporter/issues"
+    "url": "https://github.com/learn-co-curriculum/jest-learn-reporter/issues"
   },
-  "homepage": "https://github.com/ihollander/jest-learn-reporter#readme"
+  "homepage": "https://github.com/learn-co-curriculum/jest-learn-reporter#readme"
 }
