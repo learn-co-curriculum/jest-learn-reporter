@@ -1,6 +1,6 @@
 {
   "name": "@learn-co-curriculum/jest-learn-reporter",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Jest reporter for the learn-test gem",
   "main": "src/index.js",
   "repository": {
